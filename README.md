@@ -2,8 +2,6 @@
 
 <img align="right" height="200" alt="GIF" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif" />
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning vue react & laravel
 - 🤔 I’m looking for help with frontend website
 - 📫 How to reach me at necomcersnet@gmail.com
