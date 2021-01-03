@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with frontend website
 - 📫 How to reach me at necomcersnet@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahrul-dev&show_icons=true&theme=dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=sahrul-dev&show_icons=true&theme=radical" width="400">
 
 #### Contact me
   <a href="https://www.facebook.com/sahrullahhh/">
