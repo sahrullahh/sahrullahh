@@ -1,9 +1,6 @@
 ### Hello there 👋 I'M Sahrul
 
 <img align="right" height="200" alt="GIF" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif" />
-
-- 🌱 I’m currently learning vue react & laravel
-- 🤔 I’m looking for help with frontend website
 - 📫 How to reach me at necomcersnet@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahrul-dev&show_icons=true&theme=radical" width="400">
