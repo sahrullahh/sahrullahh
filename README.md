@@ -16,6 +16,7 @@
 
 #Project Web Deployed 
 
-<a href="https://magernulis-mauve.vercel.app/>MagerNulis</a>
-<a href="https://floating-sierra-61269.herokuapp.com/">MagerNulis</a>
+<a href="https://magernulis-mauve.vercel.app/">MagerNulis</a>
+<br/>
+<a href="https://floating-sierra-61269.herokuapp.com/"Todo List</a>
     
