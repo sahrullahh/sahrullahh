@@ -14,7 +14,7 @@
   </a>
 
 #### Project Web Deployed 
-- <a href="https://magernulis-mauve.vercel.app/">MagerNulis</a>
+- <a href="https://magernulis-psi.vercel.app/">MagerNulis</a>
 - <a href="https://floating-sierra-61269.herokuapp.com/">Todo List</a>
 - <a href="https://playstation5.vercel.app/">PlayStation 5 Design UI</a> 
     
