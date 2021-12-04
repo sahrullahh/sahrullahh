@@ -1,4 +1,4 @@
-### Hello there 👋 I'M Sahrul
+### Hello there 👋 I'M Mohammad Sahrullah
 
 <img align="right" height="200" alt="GIF" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif" />
 
