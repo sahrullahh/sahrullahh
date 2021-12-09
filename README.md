@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahrullahh&show_icons=true&theme=radical" width="400">
 
-![](https://komarev.com/ghpvc/?username=sahrul-dev&color=dc143c)
+<!-- ![](https://komarev.com/ghpvc/?username=sahrul-dev&color=dc143c) -->
 
 #### Contact me
   <a href="https://www.facebook.com/sahrullahhh/">
