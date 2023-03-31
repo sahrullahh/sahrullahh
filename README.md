@@ -8,3 +8,8 @@ I'm not very creative in making my profile readme, so I just ignore it
 </br></br>
 [![@mohsahrullah's Holopin board](https://holopin.io/api/user/board?user=mohsahrullah)](https://holopin.io/@mohsahrullah)
 
+if someone interested, to work with me can see my current cv :
+
+[<kbd> <br> PREVIEW CV <br> </kbd>][link_cv]
+
+[link_cv]: https://drive.google.com/file/d/1vCnMxO6xvR0DJXxHiDsWhccFR7Evwv7k/view?usp=share_link
