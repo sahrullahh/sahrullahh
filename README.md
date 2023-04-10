@@ -1,5 +1,6 @@
 I'm not very creative in making my profile readme, so I just ignore it
 
+<img src="https://i.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="100%" alt="rick form dev"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahrullahh&show_icons=true&theme=merko)
 
