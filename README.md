@@ -1,3 +1,5 @@
+# Hello World 
+
 <img src="https://i.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="100%" alt="rick form dev"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahrullahh&show_icons=true&theme=merko) 
@@ -7,7 +9,7 @@
 [![@mohsahrullah's Holopin board](https://holopin.io/api/user/board?user=mohsahrullah)](https://holopin.io/@mohsahrullah)
 </br></br>
 
-if someone is interested, to work with me can see my current CV:
+if someone is interested, in working with me, you can see my current CV:
 
 [<kbd> <br> PREVIEW CV <br> </kbd>][link_cv]
 
