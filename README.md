@@ -1,9 +1,8 @@
-## Hello world 
+```
+console.log("I'm just human living in peace")
+```
 
 <img src="readmebox.svg" width="100%" />
-</br></br>
-
-<img src="https://i.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="100%" alt="rick form dev"/>
 </br></br>
 
 [![@mohsahrullah's Holopin board](https://holopin.io/api/user/board?user=mohsahrullah)](https://holopin.io/@mohsahrullah)
