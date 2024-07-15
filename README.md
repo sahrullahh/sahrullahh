@@ -2,7 +2,6 @@
 console.log("I'm just human living in peace")
 ```
 
-<img src="readmebox.svg" width="100%" />
 </br></br>
 
 [![@mohsahrullah's Holopin board](https://holopin.io/api/user/board?user=mohsahrullah)](https://holopin.io/@mohsahrullah)
