@@ -1,5 +1,5 @@
 ```
-console.log("I'm just human living in peace")
+console.log("I'm just human, living in justice and peace")
 ```
 
 </br></br>
