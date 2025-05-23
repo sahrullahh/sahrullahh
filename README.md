@@ -11,4 +11,4 @@ if someone is interested, in working with me, you can see my current CV:
 
 [<kbd> <br> PREVIEW CV <br> </kbd>][link_cv]
 
-[link_cv]: [[https://drive.google.com/file/d/1vCnMxO6xvR0DJXxHiDsWhccFR7Evwv7k/view?usp=share_li](https://drive.google.com/file/d/1kVu96VIzfXYwXrXbX-1Dcy3gdwlGr3Rc/view?usp=sharing)nk](https://drive.google.com/file/d/1kVu96VIzfXYwXrXbX-1Dcy3gdwlGr3Rc/view?usp=drive_link)
+[link_cv]: https://drive.google.com/file/d/1kVu96VIzfXYwXrXbX-1Dcy3gdwlGr3Rc/view?usp=sharing
