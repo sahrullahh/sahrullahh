@@ -10,10 +10,6 @@
 - 😈 My Principle: Never leave the code before it works fine
  ____
 
-
-<br>
-<br>
-
 ## Stats
 
 <table>
@@ -26,10 +22,6 @@
       </td>
   </tr>
 </table>
-</br>
-</br>
-
-
 
 [![@mohsahrullah's Holopin board](https://holopin.io/api/user/board?user=mohsahrullah)](https://holopin.io/@mohsahrullah)
 </br></br>
